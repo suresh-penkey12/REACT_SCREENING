@@ -1,7 +1,7 @@
 import bahubali from "../assets/bahubali.jpg"
 import kgf from "../assets/kgf.jpg"
 import pushpa from "../assets/pushpa.jpg"
-import rrr from "../assets/rrr.jpg"
+import rrr from "../assets/RRR.jpg"
 import spyder from "../assets/spyder.jpg"
 const Data=[
     {
